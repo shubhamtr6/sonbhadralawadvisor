@@ -1,0 +1,30 @@
+SONBHADRA LAW ADVISOR - FINAL MULTI-PAGE WEBSITE
+
+HTML PAGES
+1. index.html
+2. about.html
+3. services.html
+4. mact-claim-compensation.html
+5. civil-law.html
+- criminal-law.html
+6. contact.html
+
+COMMON ASSETS
+css/style.css
+js/script.js
+images/
+
+SEO
+robots.txt
+sitemap.xml
+
+The MACT & Compensation page is integrated as an additional page and is linked from
+the navigation and services pages. Existing pages are retained as separate HTML files.
+
+Before publishing:
+- Replace 91XXXXXXXXXX in js/script.js with the actual WhatsApp number.
+- Add real advocate/team photos to images/ if required.
+- Upload the complete folder to Cloudflare Pages.
+- Submit https://sonbhadralawadvisor.com/sitemap.xml in Google Search Console.
+
+Shared office map section is included above the footer on all HTML pages.
