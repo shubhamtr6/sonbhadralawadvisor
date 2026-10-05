@@ -61,13 +61,4 @@ function toggleMenu() {
   const nav = document.getElementById("navLinks");
   if (nav) nav.classList.toggle("active");
 }
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LC73SDHMNC">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-LC73SDHMNC');
-</script>
